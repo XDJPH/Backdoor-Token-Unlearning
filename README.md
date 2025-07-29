@@ -95,8 +95,7 @@ If you use this codebase or method in your research, please cite the following w
 ## 🙏 Acknowledgments
 
 - This project builds upon the [OpenBackdoor](https://github.com/thunlp/OpenBackdoor) framework by THUNLP.
-- We thank the authors — **Peihai Jiang**, **Xixiang Lyu**, **Yige Li**, and **Jing Ma** — for their foundational work on backdoor defense for language models.
-
+- This project builds upon the https://github.com/lancopku/sos by LancoPKU.
 ---
 
 ## 📬 Contact
