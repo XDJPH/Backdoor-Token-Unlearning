@@ -696,7 +696,7 @@ def clean_train(para, sus_token, test):
 
 
 if __name__ == '__main__':
-    with open('./github_train_config.json', 'r', encoding='utf-8') as f:
+    with open('./config.json', 'r', encoding='utf-8') as f:
         configs = json.load(f)
     parser = argparse.ArgumentParser(description="path")
     parser.add_argument('--task', type=str, default=configs['task'])
