@@ -1,0 +1,22 @@
+{
+  "task": "SentimentAnalysis",
+  "datasets": "SST-2",
+  "model-save-path": "./poison-SST-2-model",
+  "ori-model-path": "./bert-base-uncased",
+  "epochs": 1,
+  "lr": 2e-5,
+  "batch-size-eval": 64,
+  "target-label": 1,
+  "trigger": "cf",
+  "save-metric": "acc",
+  "save": true,
+  "poison-ratio": 0.1,
+  "threshold": 0.0005,
+  "poison": "badnets",
+  "mode": "mix",
+  "tune": false,
+  "freeze": false,
+  "eval-metric": "acc",
+  "rep-num": 2,
+  "seed": 1234
+}
