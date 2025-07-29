@@ -65,10 +65,7 @@ Intermediate logs, model checkpoints, and evaluation results will be saved to th
 ## 📈 Results Summary
 
 Our BTU method demonstrates:
-
-- **>90% reduction in backdoor attack success rate**
-- **<1% drop in clean task accuracy**
-- No need for clean validation data or known trigger patterns
+- **Our method drastically reduces the backdoor attack success rate (ASR) with only a marginal loss in clean task accuracy.**
 
 For more results, refer to **Table 1** in the [paper](https://arxiv.org/abs/2501.03272).
 
