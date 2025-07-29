@@ -70,7 +70,7 @@ Our BTU method demonstrates:
 - **<1% drop in clean task accuracy**
 - No need for clean validation data or known trigger patterns
 
-For more results, refer to **Table 2** in the [paper](https://arxiv.org/abs/2501.03272).
+For more results, refer to **Table 1** in the [paper](https://arxiv.org/abs/2501.03272).
 
 ---
 
